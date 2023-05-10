@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemOverview"
+        android:title="Overview"
+
+        android:enabled="true"
+        android:visible="true"
+        app:showAsAction="always"
+        android:textStyle="bold"/>
+    <item
+        android:id="@+id/itemMenu"
+        android:title="Menu"
+
+        android:enabled="true"
+        android:visible="true"
+        app:showAsAction="always"
+        android:textStyle="bold"/>
+    <item
+        android:id="@+id/itemReviews"
+        android:title="Reviews"
+
+        android:enabled="true"
+        android:visible="true"
+        app:showAsAction="always"
+        android:textStyle="bold"/>
+</menu>

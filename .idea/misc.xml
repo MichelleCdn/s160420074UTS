@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/fav_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/fav_menu_list_item.xml" value="0.18" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/fragment_fav_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/fragment_fav_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/menu_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy - Copy/app/src/main/res/layout/reviews_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/app_bar_header_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fav_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fav_menu_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_fav_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_home_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_menu.xml" value="0.22" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_menufav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_overview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_resto_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/fragment_reviews.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/home_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/menu_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy - Copy/app/src/main/res/layout/reviews_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2115" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2115" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/app_bar_header_layout.xml" value="0.33" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fav_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fav_menu_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fav_menu_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_fav_detail.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_favorite_list.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_home_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_menufav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_overview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_resto_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/fragment_reviews.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/home_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/menu_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/layout/reviews_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/menu/bottom_navigation_detailrestomenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074 - Copy/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.169" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.1" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/app_bar_header_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fav_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_main_activity.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_overview.xml" value="0.22" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_resto_detail.xml" value="0.22" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/fragment_reviews.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/home_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/menu_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/resto_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/reviews_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/layout/student_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/menu/bottom_navigation_detailrestomenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ekton/AndroidStudioProjects/s160420074/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

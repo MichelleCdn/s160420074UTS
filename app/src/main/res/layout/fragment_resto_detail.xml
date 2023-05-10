@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ic_launcher_background"
+    tools:context=".view.RestoDetailFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+
+            android:id="@+id/imageResto"
+            android:layout_width="wrap_content"
+            android:layout_height="220dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+        <ProgressBar
+            android:id="@+id/progressBarRestoDetail"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="@+id/imageResto"
+            app:layout_constraintEnd_toEndOf="@+id/imageResto"
+            app:layout_constraintStart_toStartOf="@+id/imageResto"
+            app:layout_constraintTop_toTopOf="@+id/imageResto" />
+
+        <TextView
+            android:id="@+id/textRestoName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="24dp"
+            android:text="Kebab Turki"
+            android:textAppearance="@style/Header3"
+            app:fontFamily="@font/fira_sans_bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageResto" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_baseline_arrow_back_24" />
+
+        <TextView
+            android:id="@+id/textViewAlamat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Jl. Tenggilis No. 25"
+            app:fontFamily="sans-serif-condensed"
+            app:layout_constraintStart_toStartOf="@+id/textViewTypeFood"
+            app:layout_constraintTop_toBottomOf="@+id/textViewTypeFood" />
+
+        <TextView
+            android:id="@+id/textViewDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="Description"
+            android:textAppearance="@style/Header2"
+            app:fontFamily="@font/fira_sans_bold"
+            app:layout_constraintStart_toStartOf="@+id/textViewAlamat"
+            app:layout_constraintTop_toBottomOf="@+id/textViewAlamat" />
+
+        <TextView
+            android:id="@+id/textViewOpenHour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="24dp"
+            android:text="Open at 08.00am"
+            app:fontFamily="sans-serif-condensed"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageResto" />
+
+        <TextView
+            android:id="@+id/textViewTypeFood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Asia Food"
+            android:textAppearance="@style/Header2"
+            app:fontFamily="sans-serif-condensed"
+            app:layout_constraintStart_toStartOf="@+id/textRestoName"
+            app:layout_constraintTop_toBottomOf="@+id/textRestoName" />
+
+        <TextView
+            android:id="@+id/textViewDescResto"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:text="Kebab Turki didirikan pada tahun 2000 dan mempunyai beberapa cabang di Indonesia. "
+            app:fontFamily="sans-serif-condensed"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewDesc"
+            app:layout_constraintTop_toBottomOf="@+id/textViewDesc" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

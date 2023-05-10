@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.jitusolution.s160420074.view.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/actionRestoDetail"
+            app:destination="@id/restoDetailFragment" />
+        <action
+            android:id="@+id/actionMenuFragment"
+            app:destination="@id/menuFragment" />
+        <action
+            android:id="@+id/actionReviewsFragment"
+            app:destination="@id/reviewsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/restoDetailFragment"
+        android:name="com.jitusolution.s160420074.view.RestoDetailFragment"
+        android:label="fragment_resto_detail"
+        tools:layout="@layout/fragment_resto_detail" >
+        <argument
+            android:name="restoID"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionHomeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.jitusolution.s160420074.view.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" >
+        <argument
+            android:name="restoID"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionHomeFragm"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reviewsFragment"
+        android:name="com.jitusolution.s160420074.view.ReviewsFragment"
+        android:label="fragment_reviews"
+        tools:layout="@layout/fragment_reviews" >
+        <argument
+            android:name="restoID"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionHomeFrag"
+            app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>
